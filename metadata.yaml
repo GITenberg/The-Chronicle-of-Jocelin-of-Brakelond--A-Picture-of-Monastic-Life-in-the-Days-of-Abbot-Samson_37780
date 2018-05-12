@@ -1,0 +1,41 @@
+_repo: The-Chronicle-of-Jocelin-of-Brakelond--A-Picture-of-Monastic-Life-in-the-Days-of-Abbot-Samson_37780
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jocelin, de Brakelond, active 1173-1215
+    aliases:
+    - Jocelinus, de Brakelonda
+    - Brakelond, Jocelin de
+    - Jocelin, of Brakelond
+    gutenberg_agent_id: '39055'
+    url: http://www.gutenberg.org/2009/agents/39055
+    wikipedia: http://en.wikipedia.org/wiki/Jocelyn_de_Brakelond
+  editor:
+    agent_name: Clarke, Ernest
+    alias: Clarke, Sir Ernest
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '39056'
+    url: http://www.gutenberg.org/2009/agents/39056
+description: ''
+gutenberg_issued: '2011-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37780'
+  lccn: 04027963
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Church history -- 1066-1485'
+- !lcsh 'Great Britain -- History -- Angevin period, 1154-1216'
+- !lcsh 'Abbey of Bury St. Edmunds -- History'
+- !lcsh 'Samson, Abbot of Bury St. Edmunds, 1135-1211'
+- !lcc 'BX'
+title: 'The Chronicle of Jocelin of Brakelond: A Picture of Monastic Life in the Days
+  of Abbot Samson'
+url: http://www.gutenberg.org/ebooks/37780
