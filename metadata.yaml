@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '39056'
     url: http://www.gutenberg.org/2009/agents/39056
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37780#The-Chronicle-of-Jocelin-of-Brakelond--A-Picture-of-Monastic-Life-in-the-Days-of-Abbot-Samson
 gutenberg_issued: '2011-10-17'
 gutenberg_type: Text
 identifiers:
